@@ -13,8 +13,6 @@ public class boj_10162 {
     k=k%60;
     pushNum[2]=k/10;
     k=k%10;
-
-
     if(k!=0) System.out.println("-1");
     else System.out.println(pushNum[0]+" "+pushNum[1]+" "+pushNum[2]);
   }
