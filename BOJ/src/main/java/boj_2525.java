@@ -11,6 +11,7 @@ public class boj_2525 {
     int num2 = Integer.parseInt(nums[1]);
     int num3 = Integer.parseInt(bf.readLine());
     num2=num2+num3;
+    //맞췄다니깐?1
     while(num2>=60){
       num2=num2-60;
       num1++;
