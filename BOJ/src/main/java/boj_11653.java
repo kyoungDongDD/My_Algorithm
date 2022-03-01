@@ -22,7 +22,5 @@ public class boj_11653 {
     }
     for(int j=0;j<nums.size();j++)
       System.out.println(nums.get(j));
-
-
   }
 }
