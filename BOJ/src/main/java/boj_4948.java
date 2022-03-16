@@ -54,4 +54,5 @@ public class boj_4948 {
       System.out.println(count);
     }
   }
+
 }
